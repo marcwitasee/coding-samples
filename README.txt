@@ -1,5 +1,3 @@
-ZIP FILE CONTENTS:
-
 README.txt - Description of files included in folder
 
 decision_tree.py - Recursive decision tree algorithm that I wrote with a classmate. Specifically, given the filenames for the training dataset and testing dataset, the main function (go) will use the training dataset to build the decision tree, apply that decision tree to the testing dataset, and output the predictions as a list.
@@ -10,3 +8,4 @@ markov.py - Uses the HashTable class from hash_table.py to construct a k-th orde
 
 network_structure.py - Graph architecture function that I wrote for a group project analyzing political party-switching in the Peruvian political system. The function validates inputed SQL queries to ensure that the data is structure appropriately for analysis and then constructs a networkx Graph object using the edge and node data.
 
+CAPP-122 Project - Contains the code for a text-based application that examined party-switching data to identify distinct political coalitions in Peru. Configured an SQLite database for data storage and executed queries against the database to support network analysis of switching data (using the Python NetworkX library).
